@@ -5,7 +5,7 @@ AGLINK4 Dongle Verbindung zu einer SPS.
 Ohne dieser Verbindung und Installation der AGLINK Software kann das Programm nicht ausgeführt werden.
 
 # Was ich heute anders machen würde
-* Verwendung eines MVC Templates
+* Verwendung eines Design Templates
 * XML / JSON verwenden anstatt von CSV und somit das Ein/Ausspielen der Einstellungen zu erleichten
 * Multithreading genauer recherchieren und mittels gängigen Software Design Patterns anwenden
 * TDD anwenden um kleine Fehlern bei Multithreading erkennen zu können
